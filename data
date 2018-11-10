@@ -1,0 +1,1155 @@
+ Detected 1:
+ 18:18:13.027 ->   block 0: sig: 1 x: 62 y: 105 width: 5 height: 5
+ 18:18:13.095 -> 3
+ 18:18:13.095 -> Detected 1:
+ 18:18:13.095 ->   block 0: sig: 1 x: 62 y: 105 width: 5 height: 5
+ 18:18:13.162 -> 4
+ 18:18:13.162 -> Detected 1:
+ 18:18:13.162 ->   block 0: sig: 1 x: 80 y: 162 width: 9 height: 6
+ 18:18:13.235 -> 5
+ 18:18:13.235 -> Detected 1:
+ 18:18:13.235 ->   block 0: sig: 1 x: 86 y: 167 width: 5 height: 5
+ 18:18:13.304 -> 6
+ 18:18:13.304 -> Detected 1:
+ 18:18:13.304 ->   block 0: sig: 1 x: 78 y: 167 width: 5 height: 6
+ 18:18:13.375 -> 7
+ 18:18:13.375 -> Detected 1:
+ 18:18:13.375 ->   block 0: sig: 1 x: 99 y: 148 width: 6 height: 5
+ 18:18:13.441 -> 8
+ 18:18:13.441 -> Detected 1:
+ 18:18:13.441 ->   block 0: sig: 1 x: 103 y: 145 width: 6 height: 5
+ 18:18:13.512 -> 9
+ 18:18:13.512 -> Detected 1:
+ 18:18:13.512 ->   block 0: sig: 1 x: 99 y: 164 width: 7 height: 6
+ 18:18:13.582 -> 10
+ 18:18:13.582 -> Detected 1:
+ 18:18:13.582 ->   block 0: sig: 1 x: 103 y: 155 width: 6 height: 6
+ 18:18:13.649 -> 11
+ 18:18:13.649 -> Detected 1:
+ 18:18:13.687 ->   block 0: sig: 1 x: 78 y: 150 width: 5 height: 5
+ 18:18:13.724 -> 12
+ 18:18:13.724 -> Detected 1:
+ 18:18:13.758 ->   block 0: sig: 1 x: 78 y: 150 width: 5 height: 5
+ 18:18:13.791 -> 13
+ 18:18:13.791 -> Detected 1:
+   block 0: sig: 1 x: 94 y: 133 width: 5 height: 5
+ 18:18:13.859 -> 14
+ 18:18:13.859 -> Detected 1:
+ 18:18:13.892 ->   block 0: sig: 1 x: 95 y: 114 width: 6 height: 5
+ 18:18:13.929 -> 15
+ 18:18:13.929 -> Detected 1:
+ 18:18:13.966 ->   block 0: sig: 1 x: 99 y: 137 width: 6 height: 5
+ 18:18:14.000 -> 16
+ 18:18:14.000 -> Detected 1:
+ 18:18:14.000 ->   block 0: sig: 1 x: 103 y: 128 width: 6 height: 5
+ 18:18:14.074 -> 17
+ 18:18:14.074 -> Detected 1:
+ 18:18:14.108 ->   block 0: sig: 1 x: 103 y: 137 width: 6 height: 5
+ 18:18:14.142 -> 18
+ 18:18:14.180 -> Detected 1:
+ 18:18:14.180 ->   block 0: sig: 1 x: 103 y: 137 width: 6 height: 5
+ 18:18:14.217 -> 19
+ 18:18:14.217 -> Detected 1:
+ 18:18:14.255 ->   block 0: sig: 1 x: 91 y: 156 width: 6 height: 5
+ 18:18:14.290 -> 20
+ 18:18:14.290 -> Detected 1:
+ 18:18:14.325 ->   block 0: sig: 1 x: 74 y: 154 width: 5 height: 6
+ 18:18:14.359 -> 21
+ 18:18:14.359 -> Detected 1:
+ 18:18:14.394 ->   block 0: sig: 1 x: 86 y: 140 width: 5 height: 4
+ 18:18:14.431 -> 22
+ 18:18:14.431 -> Detected 1:
+ 18:18:14.503->  block 0: sig: 1 x: 59 y: 144 width: 6 height: 5
+ 18:18:14.503 -> 23
+ 18:18:14.503 -> Detected 1:
+ 18:18:14.503 ->   block 0: sig: 1 x: 75 y: 104 width: 6 height: 5
+ 18:18:14.575 -> 24
+ 18:18:14.575 -> Detected 1:
+ 18:18:14.575 ->   block 0: sig: 1 x: 94 y: 128 width: 5 height: 5
+ 18:18:14.643 -> 25
+ 18:18:14.643 -> Detected 1:
+ 18:18:14.643 ->   block 0: sig: 1 x: 99 y: 125 width: 7 height: 5
+ 18:18:14.710 -> 26
+ 18:18:14.710 -> Detected 1:
+ 18:18:14.710 ->   block 0: sig: 1 x: 109 y: 121 width: 2 height: 6
+ 18:18:14.780 -> 27
+ 18:18:14.780 -> Detected 1:
+ 18:18:14.780 ->   block 0: sig: 1 x: 67 y: 145 width: 6 height: 6
+ 18:18:14.852 -> 28
+ 18:18:14.852 -> Detected 1:
+ 18:18:14.852 ->   block 0: sig: 1 x: 90 y: 126 width: 5 height: 6Detected 1:
+ 17:57:13.601 ->   block 0: sig: 1 x: 83 y: 112 width: 6 height: 6
+ 17:57:13.674 -> 29
+ 17:57:13.674 -> Detected 1:
+ 17:57:13.674 ->   block 0: sig: 1 x: 83 y: 112 width: 6 height: 6
+ 17:57:13.744 -> 30
+ 17:57:13.744 -> Detected 1:
+ 17:57:13.744 ->   block 0: sig: 1 x: 95 y: 105 width: 6 height: 6
+ 17:57:13.816 -> 31
+ 17:57:13.816 -> Detected 1:
+ 17:57:13.816 ->   block 0: sig: 1 x: 103 y: 106 width: 6 height: 6
+ 17:57:13.882 -> 32
+ 17:57:13.882 -> Detected 1:
+ 17:57:13.882 ->   block 0: sig: 1 x: 102 y: 111 width: 5 height: 6
+ 17:57:13.952 -> 33
+ 17:57:13.952 -> Detected 1:
+ 17:57:13.952 ->   block 0: sig: 1 x: 107 y: 114 width: 6 height: 6
+ 17:57:14.025 -> 34
+ 17:57:14.025 -> Detected 1:
+ 17:57:14.025 ->   block 0: sig: 1 x: 111 y: 133 width: 6 height: 5
+ 17:57:14.093 -> 35
+ 17:57:14.093 -> Detected 1:
+ 17:57:14.093 ->   block 0: sig: 1 x: 87 y: 145 width: 6 height: 6
+ 17:57:14.164 -> 36
+ 17:57:14.164 -> Detected 1:
+ 17:57:14.164 ->   block 0: sig: 1 x: 63 y: 136 width: 6 height: 6
+ 17:57:14.236 -> 37
+ 17:57:14.236 -> Detected 1:
+ 17:57:14.236 ->   block 0: sig: 1 x: 59 y: 100 width: 7 height: 6
+ 17:57:14.310 -> 38
+ 17:57:14.310 -> Detected 1:
+ 17:57:14.310 ->   block 0: sig: 1 x: 91 y: 172 width: 6 height: 6
+ 39
+ 17:57:14.377 -> Detected 1:
+ 17:57:14.377 ->   block 0: sig: 1 x: 63 y: 149 width: 6 height: 7
+ 17:57:14.444 -> 40
+ 17:57:14.444 -> Detected 1:
+ 17:57:14.444 ->   block 0: sig: 1 x: 71 y: 135 width: 6 height: 6
+ 17:57:14.518 -> 41
+ 17:57:14.518 -> Detected 1:
+ 17:57:14.518 ->   block 0: sig: 1 x: 86 y: 118 width: 5 height: 6
+ 17:57:14.556 -> 42
+ 17:57:14.556 -> Detected 1:
+ 17:57:14.593 ->   block 0: sig: 1 x: 90 y: 102 width: 5 height: 5
+ 17:57:14.626 -> 43
+ 17:57:14.626 -> Detected 1:
+ 17:57:14.661 ->   block 0: sig: 1 x: 75 y: 140 width: 6 height: 6
+ 17:57:14.697 -> 44
+ 17:57:14.697 -> Detected 1:
+ 17:57:14.733 ->   block 0: sig: 1 x: 58 y: 104 width: 5 height: 6
+ 17:57:14.766 -> 45
+ 17:57:14.766 -> Detected 1:
+ 17:57:14.803 ->   block 0: sig: 1 x: 55 y: 119 width: 6 height: 5
+ 17:57:14.837 -> 46
+ 17:57:14.837 -> Detected 1:
+ 17:57:14.874 ->   block 0: sig: 1 x: 66 y: 118 width: 5 height: 6
+ 17:57:14.909 -> 47
+ 17:57:14.909 -> Detected 1:
+ 17:57:14.909 ->   block 0: sig: 1 x: 83 y: 98 width: 6 height: 5
+ 17:57:14.976 -> 48
+ 17:57:14.976 -> Detected 1:
+ 17:57:15.011 ->   block 0: sig: 1 x: 98 y: 99 width: 5 height: 7
+ 17:57:15.045 -> 49
+ 17:57:15.045 -> Detected 1:
+ 17:57:15.045 ->   block 0: sig: 1 x: 107 y: 98 width: 7 height: 6
+ 17:57:15.121 -> 50
+ 17:57:15.121 -> Detected 1:
+ 17:57:15.121 ->   block 0: sig: 1 x: 111 y: 104 width: 6 height: 6
+ 17:57:15.193 -> 51
+ 17:57:15.193 -> Detected 1:
+ 17:57:15.193 ->   block 0: sig: 1 x: 75 y: 123 width: 7 height: 6
+ 17:57:15.260 -> 52
+ 17:57:15.260 -> Detected 1:
+ 17:57:15.260 ->   block 0: sig: 1 x: 72 y: 114 width: 9 height: 6
+ 17:57:15.328 -> 53
+ 17:57:15.328 -> Detected 1:
+ 17:57:15.328 ->   block 0: sig: 1 x: 71 y: 111 width: 6 height: 5
+ 17:57:15.398 -> 54
+ 17:57:15.398 -> Detected 1:
+ 17:57:15.398 ->   block 0: sig: 1 x: 75 y: 130 width: 6 height: 6
+ 17:57:15.471 -> 55
+ 17:57:15.471 -> Detected 1:
+ 17:57:15.471 ->   block 0: sig: 1 x: 63 y: 92 width: 6 height: 6
+ 17:57:15.541 -> 56
+ 17:57:15.541 -> Detected 1:
+ 17:57:15.541 ->   block 0: sig: 1 x: 59 y: 82 width: 6 height: 6
+ 17:57:15.575 -> 57
+ 17:57:15.609 -> Detected 1:
+ 17:57:15.609 ->   block 0: sig: 1 x: 59 y: 68 width: 6 height: 6
+ 17:57:15.645 -> 58
+ Detected 1:
+ 17:57:15.683 ->   block 0: sig: 1 x: 63 y: 57 width: 6 height: 6
+ 17:57:15.718 -> 59
+ 17:57:15.718 -> Detected 1:
+ 17:57:15.754 ->   block 0: sig: 1 x: 83 y: 127 width: 6 height: 6
+ 17:57:15.788 -> 60
+ 17:57:15.788 -> Detected 1:
+ 17:57:15.821 ->   block 0: sig: 1 x: 67 y: 90 width: 6 height: 5
+ 17:57:15.856 -> 61
+ 17:57:15.856 -> Detected 1:
+ 17:57:15.894 ->   block 0: sig: 1 x: 71 y: 101 width: 6 height: 6
+ 17:57:15.930 -> 62
+ 17:57:15.930 -> Detected 1:
+ 17:57:15.967 ->   block 0: sig: 1 x: 75 y: 91 width: 6 height: 6
+ 17:57:16.003 -> 63
+ 17:57:16.003 -> Detected 1:
+ 17:57:16.003 ->   block 0: sig: 1 x: 68 y: 79 width: 9 height: 6
+ 17:57:16.076 -> 64
+ 17:57:16.076 -> Detected 1:
+ 17:57:16.076 ->   block 0: sig: 1 x: 83 y: 93 width: 6 height: 6
+ 17:57:16.143 -> 65
+ 17:57:16.143 -> Detected 1:
+ 17:57:16.143 ->   block 0: sig: 1 x: 75 y: 63 width: 6 height: 6
+ 17:57:16.218 -> 66
+ 17:57:16.218 -> Detected 1:
+ 17:57:16.218 ->   block 0: sig: 1 x: 63 y: 76 width: 6 height: 6
+ 17:57:16.251 -> 67
+ 17:57:16.289 -> Detected 1:
+ 17:57:16.289 ->   block 0: sig: 1 x: 111 y: 157 width: 6 height: 5
+ 17:57:16.325 -> 68
+ 17:57:16.325 -> Detected 1:
+ 17:57:16.360 ->   block 0: sig: 1 x: 86 y: 87 width: 5 height: 6
+ 17:57:16.393 -> 69
+ 17:57:16.426 -> Detected 1:
+ 17:57:16.426 ->   block 0: sig: 1 x: 79 y: 69 width: 6 height: 6
+ 17:57:16.462 -> 70
+ 17:57:16.462 -> Detected 1:
+ 17:57:16.496 ->   block 0: sig: 1 x: 79 y: 69 width: 6 height: 6
+ 17:57:16.530 -> 71
+ 17:57:16.530 -> Detected 1:
+ 17:57:16.566 ->   block 0: sig: 1 x: 120 y: 146 width: 9 height: 7
+ 17:57:16.602 -> 72
+ 17:57:16.602 -> Detected 1:
+ 17:57:16.639 ->   block 0: sig: 1 x: 111 y: 142 width: 6 height: 6
+ 17:57:16.675 -> 73
+ 17:57:16.675 -> Detected 1:
+ 17:57:16.709 ->   block 0: sig: 1 x: 123 y: 133 width: 6 height: 6
+ 17:57:16.744 -> 74
+ 17:57:16.744 -> Detected 1:
+ 17:57:16.778 ->   block 0: sig: 1 x: 122 y: 143 width: 5 height: 7
+ 17:57:16.815 -> 75
+ 17:57:16.815 -> Detected 1:
+ 17:57:16.851 ->   block 0: sig: 1 x: 94 y: 88 width: 5 height: 6
+ 17:57:16.886 -> 76
+ 17:57:16.886 -> Detected 1:
+ 17:57:16.886 ->   block 0: sig: 1 x: 123 y: 114 width: 7 height: 7
+ 17:57:16.953 -> 77
+ 17:57:16.953 -> Detected 1:
+ 17:57:16.990 ->   block 0: sig: 1 x: 119 y: 119 width: 6 height: 7
+ 17:57:17.026 -> 78
+ 17:57:17.026 -> Detected 1:
+ 17:57:17.026 ->   block 0: sig: 1 x: 92 y: 80 width: 9 height: 6
+ 17:57:17.094 -> 79
+ 17:57:17.094 -> Detected 1:
+ 17:57:17.129 ->   block 0: sig: 1 x: 86 y: 63 width: 5 height: 6
+ 17:57:17.163 -> 80
+ 17:57:17.163 -> Detected 1:
+ 17:57:17.163 ->   block 0: sig: 1 x: 91 y: 73 width: 6 height: 6
+ 17:57:17.234 -> 81
+ 17:57:17.234 -> Detected 1:
+ 17:57:17.234 ->   block 0: sig: 1 x: 123 y: 96 width: 6 height: 5
+ 17:57:17.304 -> 82
+ 17:57:17.304 -> Detected 1:
+ 17:57:17.304 ->   block 0: sig: 1 x: 131 y: 112 width: 6 height: 6
+ 17:57:17.376 -> 83
+ 17:57:17.376 -> Detected 1:
+ 17:57:17.376 ->   block 0: sig: 1 x: 107 y: 81 width: 6 height: 6
+ 17:57:17.445 -> 84
+ 17:57:17.445 -> Detected 1:
+ 17:57:17.445 ->   block 0: sig: 1 x: 107 y: 63 width: 6 height: 6
+ 17:57:17.514 -> 85
+ 17:57:17.514 -> Detected 1:
+ 17:57:17.514 ->   block 0: sig: 1 x: 115 y: 85 width: 6 height: 5
+ 17:57:17.586 -> 86
+ 17:57:17.586 -> Detected 1:
+ 17:57:17.586 ->   block 0: sig: 1 x: 131 y: 102 width: 6 height: 6
+ 87
+ 17:57:17.661 -> Detected 1:
+ 17:57:17.661 ->   block 0: sig: 1 x: 123 y: 105 width: 6 height: 6
+ 88
+ 17:57:17.731 -> Detected 1:
+ 17:57:17.731 ->   block 0: sig: 1 x: 118 y: 111 width: 5 height: 6
+ 17:57:17.768 -> 89
+ Detected 1:
+ 17:57:17.804 ->   block 0: sig: 1 x: 115 y: 100 width: 6 height: 5
+ 17:57:17.838 -> 90
+ Detected 1:
+ 17:57:17.875 ->   block 0: sig: 1 x: 123 y: 126 width: 6 height: 6
+ 17:57:17.911 -> 91
+ 17:57:17.911 -> Detected 1:
+ 17:57:17.945 ->   block 0: sig: 1 x: 111 y: 59 width: 7 height: 6
+ 17:57:17.979 -> 92
+ 17:57:17.979 -> Detected 1:
+ 17:57:18.013 ->   block 0: sig: 1 x: 99 y: 75 width: 6 height: 7
+ 17:57:18.047 -> 93
+ 17:57:18.047 -> Detected 1:
+ 17:57:18.080 ->   block 0: sig: 1 x: 95 y: 62 width: 6 height: 6
+ 17:57:18.118 -> 94
+ 17:57:18.118 -> Detected 1:
+ 17:57:18.152 ->   block 0: sig: 1 x: 110 y: 89 width: 5 height: 5
+ 17:57:18.186 -> 95
+ 17:57:18.186 -> Detected 1:
+ 17:57:18.219 ->   block 0: sig: 1 x: 103 y: 93 width: 7 height: 6
+ 17:57:18.257 -> 96
+ 17:57:18.257 -> Detected 1:
+ 17:57:18.294 ->   block 0: sig: 1 x: 95 y: 89 width: 6 height: 6
+ 17:57:18.328 -> 97
+ 17:57:18.328 -> Detected 1:
+ 17:57:18.328 ->   block 0: sig: 1 x: 119 y: 91 width: 6 height: 5
+ 17:57:18.396 -> 98
+ 17:57:18.396 -> Detected 1:
+ 17:57:18.431 ->   block 0: sig: 1 x: 127 y: 89 width: 7 height: 6
+ 17:57:18.464 -> 99
+ 17:57:18.464 -> Detected 1:
+ 17:57:18.502 ->   block 0: sig: 1 x: 111 y: 73 width: 6 height: 6
+ 17:57:18.537 -> 100
+ 17:57:18.537 -> Detected 1:
+ 17:57:18.573 ->   block 0: sig: 1 x: 142 y: 65 width: 5 height: 8
+ 17:57:18.610 -> 101
+ 17:57:18.610 -> Detected 1:
+ 17:57:18.610 ->   block 0: sig: 1 x: 120 y: 76 width: 9 height: 7
+ 17:57:18.677 -> 102
+ 17:57:18.677 -> Detected 1:
+ 17:57:18.677 ->   block 0: sig: 1 x: 122 y: 84 width: 5 height: 7
+ 17:57:18.745 -> 103
+ 17:57:18.745 -> Detected 1:
+ 17:57:18.778 ->   block 0: sig: 1 x: 123 y: 166 width: 7 height: 6
+ 17:57:18.816 -> 104
+ 17:57:18.816 -> Detected 1:
+ 17:57:18.816 ->   block 0: sig: 1 x: 107 y: 170 width: 6 height: 6
+ 17:57:18.887 -> 105
+ 17:57:18.887 -> Detected 1:
+ 17:57:18.887 ->   block 0: sig: 1 x: 127 y: 151 width: 7 height: 6
+ 17:57:18.960 -> 106
+ 17:57:18.960 -> Detected 1:
+ 17:57:18.960 ->   block 0: sig: 1 x: 120 y: 159 width: 9 height: 6
+ 17:57:19.032 -> 107
+ 17:57:19.032 -> Detected 1:
+ 17:57:19.032 ->   block 0: sig: 1 x: 116 y: 65 width: 9 height: 9
+ 17:57:19.102 -> 108
+ 17:57:19.102 -> Detected 1:
+ 17:57:19.102 ->   block 0: sig: 1 x: 143 y: 77 width: 6 height: 6
+ 17:57:19.170 -> 109
+ 17:57:19.170 -> Detected 1:
+ 17:57:19.170 ->   block 0: sig: 1 x: 128 y: 81 width: 9 height: 7
+ 17:57:19.244 -> 110
+ 17:57:19.244 -> Detected 1:
+ 17:57:19.244 ->   block 0: sig: 1 x: 127 y: 61 width: 7 height: 7
+ 17:57:19.313 -> 111
+ 17:57:19.313 -> Detected 1:
+ 17:57:19.313 ->   block 0: sig: 1 x: 128 y: 143 width: 9 height: 6
+ 17:57:19.387 -> 112
+ 17:57:19.387 -> Detected 1:
+ 17:57:19.387 ->   block 0: sig: 1 x: 131 y: 136 width: 6 height: 5
+ 17:57:19.459 -> 113
+ 17:57:19.459 -> Detected 1:
+ 17:57:19.459 ->   block 0: sig: 1 x: 130 y: 129 width: 5 height: 5
+ 17:57:19.529 -> 114
+ 17:57:19.529 -> Detected 1:
+ 17:57:19.529 ->   block 0: sig: 1 x: 119 y: 138 width: 6 height: 6
+ 17:57:19.597 -> 115
+ 17:57:19.597 -> Detected 1:
+ 17:57:19.597 ->   block 0: sig: 1 x: 112 y: 72 width: 9 height: 7
+ 17:57:19.669 -> 116
+ 17:57:19.669 -> Detected 1:
+ 17:57:19.669 ->   block 0: sig: 1 x: 135 y: 92 width: 6 height: 6
+ 17:57:19.736 -> 117
+ 17:57:19.736 -> Detected 1:
+ 17:57:19.736 ->   block 0: sig: 1 x: 134 y: 101 width: 5 height: 7
+ 17:57:19.811 -> 118
+ 17:57:19.811 -> Detected 1:
+ 17:57:19.811 ->   block 0: sig: 1 x: 131 y: 66 width: 6 height: 6
+ 17:57:19.878 -> 119
+ 17:57:19.878 -> Detected 1:
+ 17:57:19.878 ->   block 0: sig: 1 x: 131 y: 124 width: 6 height: 6
+ 17:57:19.948 -> 120
+ 17:57:19.948 -> Detected 1:
+ 17:57:19.948 ->   block 0: sig: 1 x: 139 y: 129 width: 7 height: 7
+ 17:57:20.020 -> 121
+ 17:57:20.020 -> Detected 1:
+ 17:57:20.020 ->   block 0: sig: 1 x: 132 y: 116 width: 9 height: 7
+ 17:57:20.087 -> 122
+ 17:57:20.087 -> Detected 1:
+ 17:57:20.087 ->   block 0: sig: 1 x: 134 y: 139 width: 5 height: 6
+ 17:57:20.157 -> 123
+ 17:57:20.157 -> Detected 1:
+ 17:57:20.157 ->   block 0: sig: 1 x: 107 y: 66 width: 6 height: 7
+ 17:57:20.227 -> 124
+ 17:57:20.227 -> Detected 1:
+ 17:57:20.227 ->   block 0: sig: 1 x: 127 y: 76 width: 6 height: 8
+ 17:57:20.295 -> 125
+ 17:57:20.295 -> Detected 1:
+ 17:57:20.295 ->   block 0: sig: 1 x: 139 y: 62 width: 6 height: 6
+ 17:57:20.365 -> 126
+ 17:57:20.365 -> Detected 1:
+ 17:57:20.365 ->   block 0: sig: 1 x: 139 y: 67 width: 6 height: 7
+ 17:57:20.435 -> 127
+ 17:57:20.435 -> Detected 1:
+ 17:57:20.435 ->   block 0: sig: 1 x: 135 y: 124 width: 6 height: 6
+ 17:57:20.507 -> 128
+ 17:57:20.507 -> Detected 1:
+ 17:57:20.507 ->   block 0: sig: 1 x: 143 y: 106 width: 6 height: 7
+ 17:57:20.579 -> 129
+ 17:57:20.579 -> Detected 1:
+ 17:57:20.579 ->   block 0: sig: 1 x: 146 y: 115 width: 5 height: 6
+ 17:57:20.652 -> 130
+ 17:57:20.652 -> Detected 1:
+ 17:57:20.652 ->   block 0: sig: 1 x: 111 y: 175 width: 6 height: 7
+ 17:57:20.725 -> 131
+ 17:57:20.725 -> Detected 1:
+ 17:57:20.725 ->   block 0: sig: 1 x: 139 y: 142 width: 6 height: 7
+ 17:57:20.796 -> 132
+ 17:57:20.796 -> Detected 1:
+ 17:57:20.796 ->   block 0: sig: 1 x: 156 y: 149 width: 9 height: 7
+ 17:57:20.866 -> 133
+ 17:57:20.866 -> Detected 1:
+ 17:57:20.866 ->   block 0: sig: 1 x: 143 y: 135 width: 6 height: 6
+ 17:57:20.938 -> 134
+ 17:57:20.938 -> Detected 1:
+ 17:57:20.938 ->   block 0: sig: 1 x: 146 y: 144 width: 5 height: 6
+ 135
+ 17:57:21.012 -> Detected 1:
+ 17:57:21.012 ->   block 0: sig: 1 x: 159 y: 141 width: 6 height: 5
+ 17:57:21.079 -> 136
+ 17:57:21.079 -> Detected 1:
+ 17:57:21.079 ->   block 0: sig: 1 x: 150 y: 148 width: 5 height: 6
+ 17:57:21.117 -> 137
+ 17:57:21.153 -> Detected 1:
+ 17:57:21.153 ->   block 0: sig: 1 x: 159 y: 163 width: 6 height: 6
+ 17:57:21.187 -> 138
+ 17:57:21.224 -> Detected 1:
+ 17:57:21.224 ->   block 0: sig: 1 x: 171 y: 163 width: 6 height: 7
+ 17:57:21.261 -> 139
+ 17:57:21.294 -> Detected 1:
+ 17:57:21.294 ->   block 0: sig: 1 x: 155 y: 119 width: 6 height: 6
+ 140
+ 17:57:21.362 -> Detected 1:
+ 17:57:21.362 ->   block 0: sig: 1 x: 147 y: 126 width: 6 height: 6
+ 17:57:21.435 -> 141
+ 17:57:21.435 -> Detected 1:
+ 17:57:21.435 ->   block 0: sig: 1 x: 155 y: 129 width: 6 height: 6
+ 17:57:21.470 -> 142
+ 17:57:21.504 -> Detected 1:
+ 17:57:21.504 ->   block 0: sig: 1 x: 151 y: 131 width: 6 height: 5
+ 17:57:21.543 -> 143
+ Detected 1:
+ 17:57:21.578 ->   block 0: sig: 1 x: 155 y: 134 width: 6 height: 5
+ 17:57:21.612 -> 144
+ 17:57:21.646 -> Detected 1:
+ 17:57:21.646 ->   block 0: sig: 1 x: 166 y: 139 width: 5 height: 6
+ 17:57:21.713 -> 145
+ 17:57:21.713 -> Detected 1:
+ 17:57:21.713 ->   block 0: sig: 1 x: 175 y: 152 width: 6 height: 6
+ 17:57:21.783 -> 146
+ 17:57:21.783 -> Detected 1:
+ 17:57:21.783 ->   block 0: sig: 1 x: 134 y: 172 width: 5 height: 6
+ 17:57:21.856 -> 147
+ 17:57:21.856 -> Detected 1:
+ 17:57:21.856 ->   block 0: sig: 1 x: 151 y: 98 width: 6 height: 5
+ 17:57:21.927 -> 148
+ 17:57:21.927 -> Detected 1:
+ 17:57:21.927 ->   block 0: sig: 1 x: 148 y: 103 width: 9 height: 7
+ 149
+ 17:57:21.995 -> Detected 1:
+ 17:57:21.995 ->   block 0: sig: 1 x: 158 y: 104 width: 5 height: 6
+ 17:57:22.065 -> 150
+ 17:57:22.065 -> Detected 1:
+ 17:57:22.065 ->   block 0: sig: 1 x: 159 y: 112 width: 6 height: 6
+ 17:57:22.136 -> 151
+ 17:57:22.136 -> Detected 1:
+ 17:57:22.136 ->   block 0: sig: 1 x: 171 y: 135 width: 6 height: 5
+ 17:57:22.205 -> 152
+ 17:57:22.205 -> Detected 1:
+ 17:57:22.205 ->   block 0: sig: 1 x: 147 y: 110 width: 6 height: 6
+ 17:57:22.276 -> 153
+ 17:57:22.276 -> Detected 1:
+ 17:57:22.276 ->   block 0: sig: 1 x: 164 y: 154 width: 9 height: 7
+ 17:57:22.348 -> 154
+ 17:57:22.348 -> Detected 1:
+ 17:57:22.348 ->   block 0: sig: 1 x: 167 y: 173 width: 7 height: 7
+ 17:57:22.422 -> 155
+ 17:57:22.422 -> Detected 1:
+ 17:57:22.422 ->   block 0: sig: 1 x: 154 y: 87 width: 5 height: 6
+ 17:57:22.459 -> 156
+ 17:57:22.496 -> Detected 1:
+ 17:57:22.496 ->   block 0: sig: 1 x: 143 y: 99 width: 6 height: 6
+ 17:57:22.530 -> 157
+ 17:57:22.530 -> Detected 1:
+ 17:57:22.563 ->   block 0: sig: 1 x: 147 y: 72 width: 6 height: 6
+ 17:57:22.598 -> 158
+ 17:57:22.632 -> Detected 1:
+ 17:57:22.632 ->   block 0: sig: 1 x: 155 y: 75 width: 6 height: 6
+ 17:57:22.669 -> 159
+ 17:57:22.704 -> Detected 1:
+ 17:57:22.704 ->   block 0: sig: 1 x: 154 y: 70 width: 5 height: 6
+ 17:57:22.739 -> 160
+ 17:57:22.739 -> Detected 1:
+ 17:57:22.775 ->   block 0: sig: 1 x: 155 y: 66 width: 7 height: 6
+ 17:57:22.813 -> 161
+ 17:57:22.813 -> Detected 1:
+ 17:57:22.847 ->   block 0: sig: 1 x: 150 y: 155 width: 5 height: 7
+ 17:57:22.880 -> 162
+ Detected 1:
+ 17:57:22.915 ->   block 0: sig: 1 x: 147 y: 165 width: 6 height: 6
+ 17:57:22.948 -> 163
+ 17:57:22.982 -> Detected 1:
+ 17:57:22.982 ->   block 0: sig: 1 x: 159 y: 62 width: 6 height: 7
+ 164
+ 17:57:23.053 -> Detected 1:
+ 17:57:23.053 ->   block 0: sig: 1 x: 163 y: 99 width: 6 height: 7
+ 17:57:23.090 -> 165
+ 17:57:23.126 -> Detected 1:
+ 17:57:23.126 ->   block 0: sig: 1 x: 166 y: 82 width: 5 height: 6
+ 17:57:23.163 -> 166
+ 17:57:23.163 -> Detected 1:
+ 17:57:23.197 ->   block 0: sig: 1 x: 166 y: 89 width: 5 height: 7
+ 17:57:23.231 -> 167
+ 17:57:23.231 -> Detected 1:
+ 17:57:23.268 ->   block 0: sig: 1 x: 159 y: 78 width: 6 height: 6
+ 17:57:23.305 -> 168
+ 17:57:23.305 -> Detected 1:
+ 17:57:23.342 ->   block 0: sig: 1 x: 156 y: 91 width: 9 height: 7
+ 17:57:23.380 -> 169
+ 17:57:23.380 -> Detected 1:
+ 17:57:23.413 ->   block 0: sig: 1 x: 139 y: 167 width: 6 height: 6
+ 17:57:23.447 -> 170
+ 17:57:23.447 -> Detected 1:
+ 17:57:23.480 ->   block 0: sig: 1 x: 179 y: 172 width: 6 height: 6
+ 17:57:23.515 -> 171
+ 17:57:23.515 -> Detected 1:
+ 17:57:23.551 ->   block 0: sig: 1 x: 166 y: 124 width: 5 height: 6
+ 17:57:23.589 -> 172
+ 17:57:23.589 -> Detected 1:
+ 17:57:23.622 ->   block 0: sig: 1 x: 164 y: 120 width: 9 height: 6
+ 17:57:23.655 -> 173
+ 17:57:23.655 -> Detected 1:
+ 17:57:23.690 ->   block 0: sig: 1 x: 171 y: 130 width: 6 height: 7
+ 17:57:23.727 -> 174
+ 17:57:23.727 -> Detected 1:
+ 17:57:23.763 ->   block 0: sig: 1 x: 171 y: 126 width: 7 height: 6
+ 17:57:23.796 -> 175
+ 17:57:23.796 -> Detected 1:
+ 17:57:23.831 ->   block 0: sig: 1 x: 159 y: 124 width: 7 height: 6
+ 17:57:23.864 -> 176
+ Detected 1:
+ 17:57:23.900 ->   block 0: sig: 1 x: 167 y: 68 width: 6 height: 6
+ 17:57:23.937 -> 177
+ 17:57:23.937 -> Detected 1:
+ 17:57:23.974 ->   block 0: sig: 1 x: 138 y: 154 width: 5 height: 6
+ 17:57:24.009 -> 178
+ 17:57:24.009 -> Detected 1:
+ 17:57:24.042 ->   block 0: sig: 1 x: 146 y: 176 width: 5 height: 6
+ 17:57:24.080 -> 179
+ 17:57:24.080 -> Detected 1:
+ 17:57:24.117 ->   block 0: sig: 1 x: 171 y: 110 width: 6 height: 7
+ 17:57:24.154 -> 180
+ 17:57:24.154 -> Detected 1:
+ 17:57:24.188 ->   block 0: sig: 1 x: 139 y: 89 width: 6 height: 6
+ 17:57:24.226 -> 181
+ 17:57:24.226 -> Detected 1:
+ 17:57:24.226 ->   block 0: sig: 1 x: 167 y: 110 width: 6 height: 6
+ 17:57:24.298 -> 182
+ 17:57:24.298 -> Detected 1:
+   block 0: sig: 1 x: 171 y: 96 width: 6 height: 6
+ 17:57:24.367 -> 183
+ 17:57:24.367 -> Detected 1:
+   block 0: sig: 1 x: 170 y: 102 width: 5 height: 5
+ 17:57:24.439 -> 184
+ 17:57:24.439 -> Detected 1:
+ 17:57:24.439 ->   block 0: sig: 1 x: 167 y: 117 width: 6 height: 7
+ 17:57:24.508 -> 185
+ 17:57:24.508 -> Detected 1:
+ 17:57:24.543 ->   block 0: sig: 1 x: 130 y: 168 width: 5 height: 5
+ 17:57:24.580 -> 186
+ 17:57:24.580 -> Detected 1:
+ 17:57:24.580 ->   block 0: sig: 1 x: 151 y: 178 width: 6 height: 6
+ 17:57:24.649 -> 187
+ 17:57:24.649 -> Detected 1:
+ 17:57:24.649 ->   block 0: sig: 1 x: 144 y: 86 width: 9 height: 8
+ 17:57:24.717 -> 188
+ 17:57:24.717 -> Detected 1:
+ 17:57:24.717 ->   block 0: sig: 1 x: 171 y: 77 width: 6 height: 6
+ 17:57:24.788 -> 189
+ 17:57:24.788 -> Detected 1:
+ 17:57:24.788 ->   block 0: sig: 1 x: 175 y: 68 width: 7 height: 7
+ 17:57:24.861 -> 190
+ 17:57:24.861 -> Detected 1:
+ 17:57:24.861 ->   block 0: sig: 1 x: 179 y: 99 width: 6 height: 5
+ 17:57:24.932 -> 191
+ 17:57:24.932 -> Detected 1:
+ 17:57:24.932 ->   block 0: sig: 1 x: 179 y: 77 width: 6 height: 7
+ 17:57:25.001 -> 192
+ 17:57:25.001 -> Detected 1:
+ 17:57:25.001 ->   block 0: sig: 1 x: 179 y: 105 width: 6 height: 6
+ 17:57:25.074 -> 193
+ 17:57:25.074 -> Detected 1:
+ 17:57:25.074 ->   block 0: sig: 1 x: 131 y: 160 width: 6 height: 5
+ 17:57:25.143 -> 194
+ 17:57:25.143 -> Detected 1:
+ 17:57:25.143 ->   block 0: sig: 1 x: 175 y: 183 width: 6 height: 6
+ 17:57:25.218 -> 195
+ 17:57:25.218 -> Detected 1:
+ 17:57:25.218 ->   block 0: sig: 1 x: 215 y: 174 width: 6 height: 5
+ 17:57:25.288 -> 196
+ 17:57:25.288 -> Detected 1:
+ 17:57:25.288 ->   block 0: sig: 1 x: 202 y: 171 width: 5 height: 7
+ 17:57:25.358 -> 197
+ 17:57:25.358 -> Detected 1:
+ 17:57:25.358 ->   block 0: sig: 1 x: 194 y: 160 width: 5 height: 7
+ 17:57:25.430 -> 198
+ 17:57:25.430 -> Detected 1:
+ 17:57:25.430 ->   block 0: sig: 1 x: 195 y: 156 width: 6 height: 6
+ 17:57:25.502 -> 199
+ 17:57:25.502 -> Detected 1:
+ 17:57:25.502 ->   block 0: sig: 1 x: 207 y: 162 width: 6 height: 6
+ 17:57:25.575 -> 200
+ 17:57:25.575 -> Detected 1:
+ 17:57:25.575 ->   block 0: sig: 1 x: 215 y: 156 width: 6 height: 6
+ 17:57:25.647 -> 201
+ 17:57:25.647 -> Detected 1:
+ 17:57:25.647 ->   block 0: sig: 1 x: 223 y: 158 width: 7 height: 6
+ 17:57:25.719 -> 202
+ 17:57:25.719 -> Detected 1:
+ 17:57:25.719 ->   block 0: sig: 1 x: 227 y: 165 width: 6 height: 6
+ 17:57:25.790 -> 203
+ 17:57:25.790 -> Detected 1:
+ 17:57:25.790 ->   block 0: sig: 1 x: 195 y: 165 width: 7 height: 5
+ 17:57:25.859 -> 204
+ 17:57:25.859 -> Detected 1:
+ 17:57:25.859 ->   block 0: sig: 1 x: 187 y: 152 width: 6 height: 6
+ 17:57:25.930 -> 205
+ 17:57:25.930 -> Detected 1:
+ 17:57:25.930 ->   block 0: sig: 1 x: 195 y: 139 width: 6 height: 6
+ 17:57:25.999 -> 206
+ 17:57:25.999 -> Detected 1:
+ 17:57:25.999 ->   block 0: sig: 1 x: 202 y: 147 width: 5 height: 7
+ 17:57:26.066 -> 207
+ 17:57:26.066 -> Detected 1:
+ 17:57:26.066 ->   block 0: sig: 1 x: 207 y: 149 width: 6 height: 7
+ 17:57:26.138 -> 208
+ 17:57:26.138 -> Detected 1:
+ 17:57:26.138 ->   block 0: sig: 1 x: 207 y: 138 width: 6 height: 6
+ 17:57:26.210 -> 209
+ 17:57:26.210 -> Detected 1:
+ 17:57:26.210 ->   block 0: sig: 1 x: 211 y: 136 width: 7 height: 6
+ 17:57:26.280 -> 210
+ 17:57:26.280 -> Detected 1:
+ 17:57:26.280 ->   block 0: sig: 1 x: 218 y: 149 width: 5 height: 5
+ 17:57:26.348 -> 211
+ 17:57:26.348 -> Detected 1:
+ 17:57:26.348 ->   block 0: sig: 1 x: 176 y: 145 width: 9 height: 6
+ 17:57:26.414 -> 212
+ 17:57:26.414 -> Detected 1:
+ 17:57:26.414 ->   block 0: sig: 1 x: 179 y: 154 width: 6 height: 5
+ 17:57:26.485 -> 213
+ 17:57:26.485 -> Detected 1:
+ 17:57:26.485 ->   block 0: sig: 1 x: 191 y: 130 width: 7 height: 6
+ 17:57:26.553 -> 214
+ 17:57:26.553 -> Detected 1:
+ 17:57:26.553 ->   block 0: sig: 1 x: 195 y: 128 width: 6 height: 6
+ 17:57:26.625 -> 215
+ 17:57:26.625 -> Detected 1:
+ 17:57:26.625 ->   block 0: sig: 1 x: 195 y: 123 width: 6 height: 6
+ 17:57:26.692 -> 216
+ 17:57:26.692 -> Detected 1:
+ 17:57:26.692 ->   block 0: sig: 1 x: 200 y: 130 width: 9 height: 8
+ 17:57:26.764 -> 217
+ 17:57:26.764 -> Detected 1:
+   block 0: sig: 1 x: 210 y: 132 width: 5 height: 7
+ 17:57:26.834 -> 218
+ 17:57:26.834 -> Detected 1:
+ 17:57:26.867 ->   block 0: sig: 1 x: 207 y: 120 width: 6 height: 6
+ 17:57:26.901 -> 219
+ 17:57:26.901 -> Detected 1:
+ 17:57:26.935 ->   block 0: sig: 1 x: 163 y: 149 width: 6 height: 6
+ 17:57:26.972 -> 220
+ 17:57:26.972 -> Detected 1:
+ 17:57:27.008 ->   block 0: sig: 1 x: 180 y: 161 width: 9 height: 7
+ 17:57:27.045 -> 221
+ 17:57:27.045 -> Detected 1:
+   block 0: sig: 1 x: 183 y: 135 width: 7 height: 6
+ 17:57:27.118 -> 222
+ 17:57:27.118 -> Detected 1:
+ 17:57:27.118 ->   block 0: sig: 1 x: 183 y: 111 width: 6 height: 7
+ 17:57:27.189 -> 223
+ 17:57:27.189 -> Detected 1:
+ 17:57:27.189 ->   block 0: sig: 1 x: 195 y: 115 width: 6 height: 6
+ 17:57:27.261 -> 224
+ 17:57:27.261 -> Detected 1:
+ 17:57:27.261 ->   block 0: sig: 1 x: 199 y: 106 width: 6 height: 6
+ 17:57:27.332 -> 225
+ 17:57:27.332 -> Detected 1:
+ 17:57:27.332 ->   block 0: sig: 1 x: 204 y: 125 width: 9 height: 7
+ 17:57:27.401 -> 226
+ 17:57:27.401 -> Detected 1:
+ 17:57:27.401 ->   block 0: sig: 1 x: 206 y: 111 width: 5 height: 7
+ 17:57:27.472 -> 227
+ 17:57:27.472 -> Detected 1:
+ 17:57:27.472 ->   block 0: sig: 1 x: 178 y: 167 width: 5 height: 6
+ 17:57:27.540 -> 228
+ 17:57:27.540 -> Detected 1:
+ 17:57:27.540 ->   block 0: sig: 1 x: 187 y: 169 width: 6 height: 6
+ 17:57:27.609 -> 229
+ 17:57:27.609 -> Detected 1:
+ 17:57:27.609 ->   block 0: sig: 1 x: 182 y: 126 width: 5 height: 7
+ 17:57:27.683 -> 230
+ 17:57:27.683 -> Detected 1:
+ 17:57:27.683 ->   block 0: sig: 1 x: 183 y: 99 width: 6 height: 6
+ 17:57:27.749 -> 231
+ 17:57:27.749 -> Detected 1:
+   block 0: sig: 1 x: 190 y: 108 width: 5 height: 7
+ 17:57:27.816 -> 232
+ 17:57:27.816 -> Detected 1:
+ 17:57:27.853 ->   block 0: sig: 1 x: 195 y: 98 width: 6 height: 6
+ 17:57:27.890 -> 233
+ 17:57:27.890 -> Detected 1:
+ 17:57:27.925 ->   block 0: sig: 1 x: 199 y: 94 width: 6 height: 5
+ 17:57:27.960 -> 234
+ 17:57:27.960 -> Detected 1:
+ 17:57:27.960 ->   block 0: sig: 1 x: 206 y: 98 width: 5 height: 6
+ 17:57:28.034 -> 235
+ 17:57:28.034 -> Detected 1:
+ 17:57:28.034 ->   block 0: sig: 1 x: 178 y: 133 width: 5 height: 6
+ 17:57:28.101 -> 236
+ 17:57:28.101 -> Detected 1:
+ 17:57:28.101 ->   block 0: sig: 1 x: 191 y: 176 width: 6 height: 7
+ 17:57:28.172 -> 237
+ 17:57:28.172 -> Detected 1:
+ 17:57:28.172 ->   block 0: sig: 1 x: 183 y: 118 width: 6 height: 6
+ 17:57:28.239 -> 238
+ 17:57:28.239 -> Detected 1:
+   block 0: sig: 1 x: 182 y: 90 width: 5 height: 6
+ 17:57:28.309 -> 239
+ 17:57:28.309 -> Detected 1:
+   block 0: sig: 1 x: 191 y: 96 width: 6 height: 6
+ 17:57:28.382 -> 240
+ 17:57:28.382 -> Detected 1:
+   block 0: sig: 1 x: 191 y: 80 width: 7 height: 7
+ 17:57:28.451 -> 241
+ 17:57:28.451 -> Detected 1:
+ 17:57:28.451 ->   block 0: sig: 1 x: 195 y: 88 width: 7 height: 6
+ 17:57:28.520 -> 242
+ 17:57:28.520 -> Detected 1:
+   block 0: sig: 1 x: 203 y: 86 width: 6 height: 6
+ 17:57:28.592 -> 243
+ 17:57:28.592 -> Detected 1:
+ 17:57:28.592 ->   block 0: sig: 1 x: 175 y: 160 width: 6 height: 6
+ 17:57:28.661 -> 244
+ 17:57:28.661 -> Detected 1:
+ 17:57:28.661 ->   block 0: sig: 1 x: 171 y: 157 width: 6 height: 6
+ 17:57:28.731 -> 245
+ 17:57:28.731 -> Detected 1:
+ 17:57:28.731 ->   block 0: sig: 1 x: 191 y: 148 width: 7 height: 7
+ 17:57:28.803 -> 246
+ 17:57:28.803 -> Detected 1:
+ 17:57:28.803 ->   block 0: sig: 1 x: 187 y: 119 width: 6 height: 7
+ 17:57:28.874 -> 247
+ 17:57:28.874 -> Detected 1:
+ 17:57:28.874 ->   block 0: sig: 1 x: 186 y: 90 width: 5 height: 6
+ 17:57:28.941 -> 248
+ 17:57:28.941 -> Detected 1:
+   block 0: sig: 1 x: 188 y: 77 width: 9 height: 8
+ 17:57:29.015 -> 249
+ 17:57:29.015 -> Detected 1:
+ 17:57:29.015 ->   block 0: sig: 1 x: 196 y: 72 width: 9 height: 7
+ 17:57:29.084 -> 250
+ 17:57:29.084 -> Detected 1:
+ 17:57:29.084 ->   block 0: sig: 1 x: 199 y: 77 width: 6 height: 7
+ 17:57:29.154 -> 251
+ 17:57:29.154 -> Detected 1:
+ 17:57:29.154 ->   block 0: sig: 1 x: 175 y: 119 width: 7 height: 6
+ 17:57:29.228 -> 252
+ 17:57:29.228 -> Detected 1:
+ 17:57:29.228 ->   block 0: sig: 1 x: 274 y: 108 width: 5 height: 5
+ 17:57:29.307 -> 253
+ 17:57:29.307 -> Detected 1:
+ 17:57:29.307 ->   block 0: sig: 1 x: 183 y: 145 width: 6 height: 6
+ 17:57:29.368 -> 254
+ 17:57:29.368 -> Detected 1:
+ 17:57:29.368 ->   block 0: sig: 1 x: 174 y: 90 width: 5 height: 6
+ 17:57:29.442 -> 255
+ 17:57:29.442 -> Detected 1:
+ 17:57:29.442 ->   block 0: sig: 1 x: 187 y: 69 width: 6 height: 6
+ 17:57:29.515 -> 256
+ 17:57:29.515 -> Detected 1:
+ 17:57:29.515 ->   block 0: sig: 1 x: 183 y: 61 width: 7 height: 7
+ 17:57:29.590 -> 257
+ 17:57:29.590 -> Detected 1:
+ 17:57:29.590 ->   block 0: sig: 1 x: 191 y: 61 width: 6 height: 7
+ 17:57:29.628 -> 258
+ 17:57:29.628 -> Detected 1:
+ 17:57:29.666 ->   block 0: sig: 1 x: 202 y: 66 width: 5 height: 7
+ 17:57:29.700 -> 259
+ 17:57:29.700 -> Detected 1:
+ 17:57:29.734 ->   block 0: sig: 1 x: 242 y: 170 width: 5 height: 4
+ 17:57:29.770 -> 260
+ 17:57:29.770 -> Detected 1:
+ 17:57:29.804 ->   block 0: sig: 1 x: 239 y: 142 width: 6 height: 5
+ 17:57:29.841 -> 261
+ 17:57:29.841 -> Detected 1:
+ 17:57:29.875 ->   block 0: sig: 1 x: 231 y: 160 width: 6 height: 5
+ 17:57:29.908 -> 262
+ 17:57:29.945 -> Detected 1:
+ 17:57:29.945 ->   block 0: sig: 1 x: 239 y: 158 width: 6 height: 5
+ 17:57:29.983 -> 263
+ Detected 1:
+ 17:57:30.017 ->   block 0: sig: 1 x: 247 y: 162 width: 6 height: 5
+ 17:57:30.087 -> 264
+ 17:57:30.087 -> Detected 1:
+ 17:57:30.087 ->   block 0: sig: 1 x: 247 y: 162 width: 6 height: 5
+ 17:57:30.160 -> 265
+ 17:57:30.160 -> Detected 1:
+ 17:57:30.196 ->   block 0: sig: 1 x: 250 y: 149 width: 5 height: 5
+ 17:57:30.232 -> 266
+ 17:57:30.232 -> Detected 1:
+ 17:57:30.266 ->   block 0: sig: 1 x: 250 y: 149 width: 5 height: 5
+ 17:57:30.301 -> 267
+ 17:57:30.301 -> Detected 1:
+ 17:57:30.335 ->   block 0: sig: 1 x: 214 y: 130 width: 5 height: 7
+ 17:57:30.371 -> 268
+ 17:57:30.371 -> Detected 1:
+ 17:57:30.407 ->   block 0: sig: 1 x: 223 y: 143 width: 6 height: 6
+ 17:57:30.441 -> 269
+ Detected 1:
+ 17:57:30.476 ->   block 0: sig: 1 x: 231 y: 138 width: 7 height: 6
+ 17:57:30.544 -> 270
+ 17:57:30.544 -> Detected 1:
+ 17:57:30.544 ->   block 0: sig: 1 x: 231 y: 138 width: 6 height: 6
+ 17:57:30.617 -> 271
+ 17:57:30.617 -> Detected 1:
+ 17:57:30.617 ->   block 0: sig: 1 x: 233 y: 136 width: 10 height: 9
+ 17:57:30.685 -> 272
+ 17:57:30.685 -> Detected 1:
+ 17:57:30.685 ->   block 0: sig: 1 x: 238 y: 122 width: 5 height: 5
+ 17:57:30.753 -> 273
+ Detected 1:
+ 17:57:30.788 ->   block 0: sig: 1 x: 246 y: 139 width: 5 height: 6
+ 17:57:30.860 -> 274
+ 17:57:30.860 -> Detected 1:
+ 17:57:30.860 ->   block 0: sig: 1 x: 246 y: 139 width: 5 height: 6
+ 17:57:30.893 -> 275
+ 17:57:30.931 -> Detected 1:
+ 17:57:30.931 ->   block 0: sig: 1 x: 210 y: 113 width: 5 height: 6
+ 17:57:30.968 -> 276
+ Detected 1:
+ 17:57:31.002 ->   block 0: sig: 1 x: 222 y: 138 width: 5 height: 6
+ 17:57:31.039 -> 277
+ 17:57:31.074 -> Detected 1:
+ 17:57:31.074 ->   block 0: sig: 1 x: 227 y: 122 width: 7 height: 6
+ 17:57:31.108 -> 278
+ 17:57:31.145 -> Detected 1:
+ 17:57:31.145 ->   block 0: sig: 1 x: 231 y: 129 width: 7 height: 6
+ 17:57:31.181 -> 279
+ 17:57:31.181 -> Detected 1:
+ 17:57:31.217 ->   block 0: sig: 1 x: 232 y: 115 width: 9 height: 6
+ 17:57:31.251 -> 280
+ Detected 1:
+ 17:57:31.285 ->   block 0: sig: 1 x: 238 y: 109 width: 5 height: 5
+ 17:57:31.318 -> 281
+ 17:57:31.355 -> Detected 1:
+ 17:57:31.355 ->   block 0: sig: 1 x: 242 y: 89 width: 5 height: 6
+ 17:57:31.392 -> 282
+ 17:57:31.427 -> Detected 1:
+ 17:57:31.427 ->   block 0: sig: 1 x: 243 y: 124 width: 6 height: 5
+ 17:57:31.464 -> 283
+ 17:57:31.464 -> Detected 1:
+ 17:57:31.501 ->   block 0: sig: 1 x: 206 y: 103 width: 5 height: 7
+ 17:57:31.535 -> 284
+ 17:57:31.535 -> Detected 1:
+ 17:57:31.569 ->   block 0: sig: 1 x: 219 y: 127 width: 6 height: 7
+ 17:57:31.603 -> 285
+ Detected 1:
+ 17:57:31.641 ->   block 0: sig: 1 x: 223 y: 112 width: 6 height: 6
+ 17:57:31.674 -> 286
+ 17:57:31.674 -> Detected 1:
+ 17:57:31.711 ->   block 0: sig: 1 x: 231 y: 124 width: 6 height: 6
+ 17:57:31.749 -> 287
+ 17:57:31.749 -> Detected 1:
+ 17:57:31.784 ->   block 0: sig: 1 x: 229 y: 104 width: 3 height: 6
+ 17:57:31.818 -> 288
+ 17:57:31.818 -> Detected 1:
+ 17:57:31.852 ->   block 0: sig: 1 x: 239 y: 96 width: 6 height: 5
+ 17:57:31.885 -> 289
+ 17:57:31.885 -> Detected 1:
+ 17:57:31.920 ->   block 0: sig: 1 x: 243 y: 77 width: 6 height: 5
+ 17:57:31.957 -> 290
+ 17:57:31.957 -> Detected 1:
+ 17:57:31.994 ->   block 0: sig: 1 x: 243 y: 115 width: 6 height: 5
+ 17:57:32.031 -> 291
+ 17:57:32.031 -> Detected 1:
+ 17:57:32.067 ->   block 0: sig: 1 x: 210 y: 85 width: 5 height: 7
+ 17:57:32.101 -> 292
+ 17:57:32.101 -> Detected 1:
+ 17:57:32.139 ->   block 0: sig: 1 x: 218 y: 122 width: 5 height: 6
+ 17:57:32.175 -> 293
+ 17:57:32.175 -> Detected 1:
+ 17:57:32.211 ->   block 0: sig: 1 x: 219 y: 100 width: 6 height: 5
+ 17:57:32.247 -> 294
+ 17:57:32.247 -> Detected 1:
+ 17:57:32.284 ->   block 0: sig: 1 x: 227 y: 111 width: 7 height: 6
+ 17:57:32.318 -> 295
+ 17:57:32.318 -> Detected 1:
+ 17:57:32.354 ->   block 0: sig: 1 x: 231 y: 97 width: 6 height: 5
+ 17:57:32.390 -> 296
+ 17:57:32.390 -> Detected 1:
+ 17:57:32.390 ->   block 0: sig: 1 x: 234 y: 86 width: 5 height: 5
+ 17:57:32.461 -> 297
+ 17:57:32.461 -> Detected 1:
+ 17:57:32.461 ->   block 0: sig: 1 x: 243 y: 71 width: 6 height: 6
+ 17:57:32.534 -> 298
+ 17:57:32.534 -> Detected 1:
+ 17:57:32.534 ->   block 0: sig: 1 x: 247 y: 87 width: 6 height: 5
+ 17:57:32.602 -> 299
+ 17:57:32.602 -> Detected 1:
+ 17:57:32.602 ->   block 0: sig: 1 x: 211 y: 75 width: 6 height: 7
+ 17:57:32.670 -> 300
+ 17:57:32.670 -> Detected 1:
+ 17:57:32.670 ->   block 0: sig: 1 x: 216 y: 107 width: 9 height: 7
+ 17:57:32.741 -> 301
+ 17:57:32.741 -> Detected 1:
+ 17:57:32.741 ->   block 0: sig: 1 x: 219 y: 95 width: 6 height: 6
+ 17:57:32.810 -> 302
+ Detected 1:
+ 17:57:32.844 ->   block 0: sig: 1 x: 227 y: 90 width: 6 height: 5
+ 17:57:32.881 -> 303
+ Detected 1:
+ 17:57:32.917 ->   block 0: sig: 1 x: 227 y: 90 width: 6 height: 5
+ 17:57:32.951 -> 304
+ Detected 1:
+ 17:57:32.985 ->   block 0: sig: 1 x: 227 y: 90 width: 6 height: 4
+ 17:57:33.021 -> 305
+ Detected 1:
+ 17:57:33.056 ->   block 0: sig: 1 x: 240 y: 64 width: 9 height: 6
+ 17:57:33.093 -> 306
+ 17:57:33.093 -> Detected 1:
+ 17:57:33.128 ->   block 0: sig: 1 x: 250 y: 76 width: 5 height: 6
+ 17:57:33.164 -> 307
+ 17:57:33.164 -> Detected 1:
+ 17:57:33.201 ->   block 0: sig: 1 x: 215 y: 115 width: 7 height: 6
+ 17:57:33.236 -> 308
+ 17:57:33.236 -> Detected 1:
+ 17:57:33.273 ->   block 0: sig: 1 x: 214 y: 100 width: 5 height: 5
+ 17:57:33.309 -> 309
+ 17:57:33.309 -> Detected 1:
+ 17:57:33.345 ->   block 0: sig: 1 x: 215 y: 64 width: 6 height: 7
+ 17:57:33.382 -> 310
+ 17:57:33.382 -> Detected 1:
+ 17:57:33.419 ->   block 0: sig: 1 x: 223 y: 73 width: 6 height: 6
+ 17:57:33.455 -> 311
+ 17:57:33.455 -> Detected 1:
+ 17:57:33.455 ->   block 0: sig: 1 x: 223 y: 88 width: 6 height: 5
+ 17:57:33.525 -> 312
+ 17:57:33.525 -> Detected 1:
+ 17:57:33.525 ->   block 0: sig: 1 x: 230 y: 78 width: 5 height: 5
+ 17:57:33.597 -> 313
+ 17:57:33.597 -> Detected 1:
+ 17:57:33.597 ->   block 0: sig: 1 x: 235 y: 58 width: 6 height: 6
+ 17:57:33.668 -> 314
+ 17:57:33.668 -> Detected 1:
+ 17:57:33.668 ->   block 0: sig: 1 x: 243 y: 83 width: 6 height: 5
+ 17:57:33.736 -> 315
+ 17:57:33.736 -> Detected 1:
+ 17:57:33.736 ->   block 0: sig: 1 x: 207 y: 68 width: 6 height: 7
+ 17:57:33.808 -> 316
+ 17:57:33.808 -> Detected 1:
+ 17:57:33.808 ->   block 0: sig: 1 x: 215 y: 88 width: 6 height: 6
+ 17:57:33.878 -> 317
+ 17:57:33.878 -> Detected 1:
+ 17:57:33.878 ->   block 0: sig: 1 x: 218 y: 59 width: 5 height: 7
+ 17:57:33.951 -> 318
+ 17:57:33.951 -> Detected 1:
+ 17:57:33.951 ->   block 0: sig: 1 x: 227 y: 63 width: 6 height: 6
+ 17:57:34.023 -> 319
+ 17:57:34.023 -> Detected 1:
+ 17:57:34.023 ->   block 0: sig: 1 x: 223 y: 67 width: 7 height: 7
+ 320
+ 17:57:34.095 -> Detected 1:
+ 17:57:34.095 ->   block 0: sig: 1 x: 231 y: 64 width: 7 height: 6
+ 321
+ 17:57:34.168 -> Detected 1:
+ 17:57:34.168 ->   block 0: sig: 1 x: 246 y: 61 width: 5 height: 6
+ 322
+ 17:57:34.238 -> Detected 1:
+ 17:57:34.238 ->   block 0: sig: 1 x: 254 y: 72 width: 5 height: 6
+ 17:57:34.276 -> 323
+ 17:57:34.276 -> Detected 1:
+ 17:57:34.309 ->   block 0: sig: 1 x: 254 y: 112 width: 5 height: 4
+ 17:57:34.346 -> 324
+ 17:57:34.380 -> Detected 1:
+ 17:57:34.380 ->   block 0: sig: 1 x: 283 y: 58 width: 6 height: 4
+ 17:57:34.416 -> 325
+ 17:57:34.416 -> Detected 1:
+ 17:57:34.451 ->   block 0: sig: 1 x: 279 y: 56 width: 6 height: 4
+ 17:57:34.485 -> 326
+ 17:57:34.485 -> Detected 1:
+ 17:57:34.519 ->   block 0: sig: 1 x: 279 y: 80 width: 6 height: 5
+ 17:57:34.552 -> 327
+ 17:57:34.586 -> Detected 1:
+ 17:57:34.586 ->   block 0: sig: 1 x: 275 y: 159 width: 6 height: 4
+ 17:57:34.621 -> 328
+ 17:57:34.654 -> Detected 1:
+ 17:57:34.654 ->   block 0: sig: 1 x: 263 y: 126 width: 6 height: 4
+ 17:57:34.721 -> 329
+ 17:57:34.721 -> Detected 1:
+ 17:57:34.721 ->   block 0: sig: 1 x: 267 y: 167 width: 6 height: 4
+ 17:57:34.790 -> 330
+ 17:57:34.790 -> Detected 1:
+ 17:57:34.790 ->   block 0: sig: 1 x: 275 y: 156 width: 6 height: 5
+ 331
+ Detected 0:
+ 332
+ Detected 1:
+ 17:57:40.279 ->   block 0: sig: 1 x: 261 y: 108 width: 2 height: 6
+ 333
+ Detected 0:
+ 334
+ Detected 1:
+ 17:57:44.425 ->   block 0: sig: 1 x: 259 y: 152 width: 6 height: 5
+ 17:57:44.491 -> 335
+ 17:57:44.491 -> Detected 1:
+ 17:57:44.491 ->   block 0: sig: 1 x: 259 y: 152 width: 6 height: 5
+ 17:57:44.558 -> 336
+ 17:57:44.558 -> Detected 1:
+ 17:57:44.558 ->   block 0: sig: 1 x: 262 y: 140 width: 5 height: 5
+ 17:57:44.625 -> 337
+ 17:57:44.625 -> Detected 1:
+ 17:57:44.658 ->   block 0: sig: 1 x: 259 y: 172 width: 6 height: 5
+ 17:57:44.692 -> 338
+ 17:57:44.692 -> Detected 1:
+ 17:57:44.725 ->   block 0: sig: 1 x: 278 y: 150 width: 5 height: 4
+ 17:57:44.761 -> 339
+ 17:57:44.761 -> Detected 1:
+ 17:57:44.798 ->   block 0: sig: 1 x: 282 y: 72 width: 5 height: 4
+ 17:57:44.834 -> 340
+ Detected 1:
+ 17:57:44.868 ->   block 0: sig: 1 x: 270 y: 156 width: 5 height: 5
+ 17:57:44.940 -> 341
+ 17:57:44.940 -> Detected 1:
+ 17:57:44.940 ->   block 0: sig: 1 x: 270 y: 156 width: 5 height: 5
+ 17:57:45.010 -> 342
+ 17:57:45.010 -> Detected 1:
+ 17:57:45.010 ->   block 0: sig: 1 x: 270 y: 156 width: 5 height: 4
+ 17:57:45.078 -> 343
+ 17:57:45.078 -> Detected 1:
+ 17:57:45.078 ->   block 0: sig: 1 x: 271 y: 95 width: 6 height: 5
+ 17:57:45.149 -> 344
+ 17:57:45.149 -> Detected 1:
+ 17:57:45.149 ->   block 0: sig: 1 x: 270 y: 132 width: 5 height: 4
+ 17:57:45.224 -> 345
+ 17:57:45.224 -> Detected 1:
+   block 0: sig: 1 x: 275 y: 98 width: 6 height: 5
+ 17:57:45.291 -> 346
+ 17:57:45.291 -> Detected 1:
+ 17:57:45.325 ->   block 0: sig: 1 x: 275 y: 98 width: 6 height: 5
+ 17:57:45.358 -> 347
+ 17:57:45.358 -> Detected 1:
+ 17:57:45.392 ->   block 0: sig: 1 x: 255 y: 138 width: 6 height: 4
+ 17:57:45.428 -> 348
+ Detected 1:
+ 17:57:45.466 ->   block 0: sig: 1 x: 259 y: 120 width: 6 height: 4
+ 17:57:45.534 -> 349
+ 17:57:45.534 -> Detected 1:
+ 17:57:45.534 ->   block 0: sig: 1 x: 259 y: 120 width: 6 height: 4
+ 17:57:45.600 -> 350
+ 17:57:45.600 -> Detected 1:
+ 17:57:45.600 ->   block 0: sig: 1 x: 270 y: 149 width: 5 height: 5
+ 17:57:45.669 -> 351
+ 17:57:45.669 -> Detected 1:
+ 17:57:45.669 ->   block 0: sig: 1 x: 274 y: 145 width: 5 height: 4
+ 17:57:45.740 -> 352
+ 17:57:45.740 -> Detected 1:
+ 17:57:45.740 ->   block 0: sig: 1 x: 286 y: 99 width: 5 height: 5
+ 17:57:45.809 -> 353
+ Detected 1:
+ 17:57:45.844 ->   block 0: sig: 1 x: 275 y: 126 width: 6 height: 5
+ 17:57:45.878 -> 354
+ 17:57:45.917 -> Detected 1:
+ 17:57:45.917 ->   block 0: sig: 1 x: 275 y: 126 width: 6 height: 5
+ 17:57:45.951 -> 355
+ Detected 1:
+ 17:57:45.989 ->   block 0: sig: 1 x: 247 y: 110 width: 6 height: 5
+ 17:57:46.059 -> 356
+ 17:57:46.059 -> Detected 1:
+ 17:57:46.059 ->   block 0: sig: 1 x: 247 y: 111 width: 6 height: 6
+ 17:57:46.127 -> 357
+ 17:57:46.127 -> Detected 1:
+ 17:57:46.127 ->   block 0: sig: 1 x: 270 y: 142 width: 5 height: 5
+ 17:57:46.194 -> 358
+ 17:57:46.194 -> Detected 1:
+   block 0: sig: 1 x: 254 y: 103 width: 5 height: 4
+ 17:57:46.262 -> 359
+ 17:57:46.262 -> Detected 1:
+ 17:57:46.299 ->   block 0: sig: 1 x: 283 y: 86 width: 6 height: 4
+ 17:57:46.336 -> 360
+ 17:57:46.336 -> Detected 1:
+ 17:57:46.336 ->   block 0: sig: 1 x: 259 y: 97 width: 6 height: 5
+ 17:57:46.408 -> 361
+ 17:57:46.408 -> Detected 1:
+ 17:57:46.443 ->   block 0: sig: 1 x: 278 y: 119 width: 5 height: 5
+ 17:57:46.479 -> 362
+ 17:57:46.479 -> Detected 1:
+ 17:57:46.516 ->   block 0: sig: 1 x: 278 y: 119 width: 5 height: 5
+ 17:57:46.551 -> 363
+ 17:57:46.551 -> Detected 1:
+ 17:57:46.588 ->   block 0: sig: 1 x: 242 y: 102 width: 5 height: 6
+ 17:57:46.624 -> 364
+ 17:57:46.624 -> Detected 1:
+ 17:57:46.658 ->   block 0: sig: 1 x: 255 y: 89 width: 6 height: 5
+ 17:57:46.692 -> 365
+ 17:57:46.692 -> Detected 1:
+ 17:57:46.727 ->   block 0: sig: 1 x: 255 y: 94 width: 6 height: 5
+ 366
+ Detected 0:
+ 367
+ Detected 1:
+ 17:57:50.879 ->   block 0: sig: 1 x: 270 y: 63 width: 5 height: 6
+ 17:57:50.912 -> 368
+ 17:57:50.912 -> Detected 1:
+ 17:57:50.947 ->   block 0: sig: 1 x: 270 y: 63 width: 5 height: 6
+ 17:57:50.980 -> 369
+ 17:57:50.980 -> Detected 1:
+ 17:57:51.017 ->   block 0: sig: 1 x: 270 y: 69 width: 5 height: 5
+ 17:57:51.051 -> 370
+ 17:57:51.051 -> Detected 1:
+ 17:57:51.086 ->   block 0: sig: 1 x: 270 y: 120 width: 5 height: 4
+ 17:57:51.124 -> 371
+ Detected 1:
+ 17:57:51.160 ->   block 0: sig: 1 x: 255 y: 67 width: 6 height: 5
+ 17:57:51.229 -> 372
+ 17:57:51.229 -> Detected 1:
+ 17:57:51.229 ->   block 0: sig: 1 x: 255 y: 67 width: 6 height: 5
+ 373
+ 17:57:51.303 -> Detected 1:
+ 17:57:51.303 ->   block 0: sig: 1 x: 260 y: 67 width: 17 height: 5
+ 17:57:51.371 -> 374
+ 17:57:51.371 -> Detected 1:
+ 17:57:51.371 ->   block 0: sig: 1 x: 259 y: 73 width: 6 height: 5
+ 17:57:51.439 -> 375
+ 17:57:51.439 -> Detected 1:
+ 17:57:51.475 ->   block 0: sig: 1 x: 282 y: 131 width: 5 height: 4
+ 17:57:51.510 -> 376
+ 17:57:51.510 -> Detected 1:
+ 17:57:51.543 ->   block 0: sig: 1 x: 282 y: 131 width: 5 height: 4
+ 17:57:51.577 -> 377
+ Detected 1:
+ 17:57:51.610 ->   block 0: sig: 1 x: 282 y: 93 width: 5 height: 4
+ 17:57:51.679 -> 378
+ 17:57:51.679 -> Detected 1:
+ 17:57:51.679 ->   block 0: sig: 1 x: 282 y: 93 width: 5 height: 4
+ 17:57:51.751 -> 379
+ 17:57:51.751 -> Detected 1:
+ 17:57:51.786 ->   block 0: sig: 1 x: 258 y: 62 width: 5 height: 5
+ 17:57:51.820 -> 380
+ 17:57:51.820 -> Detected 1:
+ 17:57:51.853 ->   block 0: sig: 1 x: 258 y: 62 width: 5 height: 5
+ 17:57:51.887 -> 381
+ 17:57:51.887 -> Detected 1:
+ 17:57:51.925 ->   block 0: sig: 1 x: 258 y: 62 width: 5 height: 5
+ 17:57:51.960 -> 382
+ 17:57:51.960 -> Detected 1:
+ 17:57:51.994 ->   block 0: sig: 1 x: 283 y: 117 width: 6 height: 5
+ 17:57:52.029 -> 383
+ 17:57:52.029 -> Detected 1:
+ 17:57:52.063 ->   block 0: sig: 1 x: 283 y: 104 width: 6 height: 5
+ 17:57:52.097 -> 384
+ 17:57:52.131 -> Detected 1:
+ 17:57:52.131 ->   block 0: sig: 1 x: 278 y: 138 width: 5 height: 4
+ 17:57:52.198 -> 385
+ 17:57:52.198 -> Detected 1:
+ 17:57:52.198 ->   block 0: sig: 1 x: 278 y: 138 width: 5 height: 4
+ 17:57:52.271 -> 386
+ 17:57:52.271 -> Detected 1:
+ 17:57:52.271 ->   block 0: sig: 1 x: 286 y: 142 width: 5 height: 3
+ 17:57:52.338 -> 387
+ 17:57:52.338 -> Detected 1:
+ 17:57:52.372 ->   block 0: sig: 1 x: 59 y: 53 width: 6 height: 5
